@@ -6,7 +6,7 @@
   <title>Happy 1 Year Anniversary, My Love!</title>
   <style>
     /* --- Accessible Pink Palette CSS Variables --- */
-    :root {
+    : root {
       --primary-pink: #d81b60;      /* Vibrant, accessible deep pink */
       --dark-magenta: #880e4f;      /* High contrast dark berry for text */
       --light-rose: #fff0f5;        /* Soft lavender-blush background */
@@ -16,7 +16,7 @@
     }
 
     /* --- Reset & Base Styles --- */
-    * {
+    *
       box-sizing: border-box;
       margin: 0;
       padding: 0;
